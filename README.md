@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 -->
 
 # Portfolio
-<p align="center">
+<p align="left">
   Check out my portfolio! 
   <a href="https://kaleytsang.ca"></a>
 </p>
