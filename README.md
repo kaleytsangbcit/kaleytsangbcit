@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://kaleytsang.ca">
-  <img alt="Kaley Tsang Official Website" title="Kaley Tsang Official Website" src=":globe_with_meridians:	"
+  <img alt="Kaley Tsang Official Website" title="Kaley Tsang Official Website" src= "https://github.githubassets.com/images/icons/emoji/unicode/1f310.png?v8"
   </a>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,nodejs,react,figma&theme=dark)](https://skills.thijs.gg)
