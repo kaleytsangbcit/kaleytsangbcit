@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 -->
 
 # Portfolio
-<p align="left">
-  Check out my portfolio! 
+<p>
+  Check out my portfolio on www.kaleytsang.ca
   <a href="https://kaleytsang.ca"></a>
 </p>
 
