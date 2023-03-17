@@ -2,8 +2,11 @@
 
 <p align="center">
   <a href="https://kaleytsang.ca">
-  <img alt="Kaley Tsang Official Website" title="Kaley Tsang Official Website" src="https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)">    
+  <img alt="Kaley Tsang Official Website" title="Kaley Tsang Official Website" 
   </a>
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+
   
   
   
