@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://kaleytsang.ca">
-  <img alt="Kaley Tsang Official Website" title="Kaley Tsang Official Website" src="https://img.shields.io/youtube/channel/views/UCWK-MmaNmqadccH_uhtYAeQ?color=%23CF2123&label=YouTube&style=flat-square">    
+  <img alt="Kaley Tsang Official Website" title="Kaley Tsang Official Website" src="https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)">    
   </a>
   
   
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 # Heading 1
 
-[video test](https://www.youtube.com/watch?v=uSvAvCE9ztc)
+
