@@ -5,7 +5,7 @@
   <img alt="Kaley Tsang Official Website" title="Kaley Tsang Official Website" 
   </a>
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=javascript,nodejs,figma&theme=dark)](https://skills.thijs.gg)
 
   
   
